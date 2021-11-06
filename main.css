@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(3, 97, 105);
+}
+
+h1{
+    font-size: 35px;
+    color: aqua;
+    text-align: center;
+}
+p{
+    font-size: 30px;
+    color: aqua;
+    text-align: center;
+}
+
+h2{
+    font-size: 6px;
+    text-align: center;
+}
